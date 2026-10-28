@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /includes/
+Disallow: /send_message.php
+
+Sitemap: https://YOUR-DOMAIN.com/sitemap.xml
